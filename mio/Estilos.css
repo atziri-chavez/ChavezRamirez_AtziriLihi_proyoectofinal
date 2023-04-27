@@ -1,0 +1,58 @@
+@font-face{
+	font-family: "Mifuente";
+	src: url('Fuentes/Homemade Sausage.ttf');
+}
+
+h1{
+	font-family: "Mifuente";
+	font-size: 50px;
+	text-align: center;color: #fffff0;
+}
+
+h2{
+	font-family: "Mifuente";
+	font-size: 30px;
+	text-align: center;color:#d8e7ed;
+}
+
+@font-face{
+	font-family: "fuente";
+	src: url('Fuentes/Love Story Rough.ttf');
+
+}
+
+p{
+	font-family: "fuente";
+	font-size: 26px;
+	text-align: justify-all;margin-right: 25px;margin-left: 25px;color:#0b0c0d; 
+}
+
+#resaltar{
+	font-family: "Mifuente";
+	font-size: 25px;
+	text-align: center;margin-right: 25px;margin-left: 25px;color:#fffff0; 
+}
+
+.menu{
+	font-family: "Mifuente";
+	font-size: 25px;
+}
+
+th{
+	font-family: "Mifuente";
+	font-size: 26px;
+	text-align: center;color: #fffff0;
+}
+
+td{
+	font-family: "fuente";
+	font-size: 26px;
+	text-align: center;color:#0b0c0d;
+}
+
+footer{
+	font-family: "Mifuente";
+	font-size: 25px;
+	text-align: right;color: #fffff0;
+	
+}
